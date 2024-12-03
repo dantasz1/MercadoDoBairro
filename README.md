@@ -21,6 +21,8 @@ JavaScript com jQuery para funcionalidades dinâmicas
 
 E-mail: thiago@fatec.com
 Senha: andre
+
+
 Este projeto representa um marco importante na minha jornada no desenvolvimento web. Estou muito grato pela parceria e orientação ao longo dessa jornada, especialmente ao meu colega André Luiz pela colaboração e à professora Eulaliane pela constante orientação.
 
 Estou ansioso para o que vem pela frente, e para os novos desafios que me aguardam! 💡
